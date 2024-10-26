@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm an aspiring **Data Scientist** and a **BS Data
 
 ### 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/anasnorani1/)
-- [Email](mailto:malikanasbrw@gmail.com)
+- [Email](mailto:anorani.bsds24seecs@seecs.edu.pk)
 
 ---
 
