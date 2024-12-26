@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm an aspiring **Data Scientist** and a **BS Data
 ### 📘 About Me
 - 🎓 **Education:** Pursuing a Bachelor’s in Data Science at NUST
 - 👨‍💻 **Skills:** Proficient in **C++**, **Python**, **HTML**, and **CSS**
-- 🎯 **Interests:** Data Science, HR, Event Management
+- 🎯 **Interests:** Data Science, Graphics, HR, Event Management
 - 📊 **Goal:** Combining data science with HR and event planning to make impactful, data-driven decisions
 
 ---
